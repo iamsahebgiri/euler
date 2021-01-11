@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    long long t = 1;
+    long long t = 10;
     int n = 2;
     while (t < 10002)
     {
